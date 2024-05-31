@@ -6,4 +6,4 @@ Install and Usage:
 
   `cd Wifi-Hacktool`
 
-  `python main.py`
+  `python WifiHackTool.py`
