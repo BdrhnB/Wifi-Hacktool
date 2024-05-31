@@ -1,10 +1,9 @@
 Install and Usage:
 
-`cd /opt`
+  `cd /opt`
 
-git clone https://github.com/BdrhnB/Wifi-Hacktool.git
+  `git clone https://github.com/BdrhnB/Wifi-Hacktool.git`
 
-cd Wifi-Hacktool
+  `cd Wifi-Hacktool`
 
-python main.py
-
+  `python main.py`
