@@ -1,6 +1,6 @@
 Install and Usage:
 
-cd /opt
+`cd /opt`
 
 git clone https://github.com/BdrhnB/Wifi-Hacktool.git
 
